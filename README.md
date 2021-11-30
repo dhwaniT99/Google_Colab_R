@@ -37,7 +37,7 @@ Do the following to set up R in colab
    
 Here is the notebook where I tried to reading dataset and performing some operations using some CRAN packages
    
-You do not have an option to mount the R files in Google Drive where we have to work on the various files where we can work on using the R file however there are various ways where we can work on. 
+You do not have an option to mount the R files in Google Drive directly as we do in python
    
 ## The limitations: 
    
