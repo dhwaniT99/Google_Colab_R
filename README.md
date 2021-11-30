@@ -6,7 +6,7 @@ So, I have been working on projects in R lately and I got curious if R can be us
 
 ### What is Colab
 
-Google Research's Colaboratory (abbreviated "Colab") is a product. Colab is a web-based Python editor that allows anyone to write and run arbitrary Python code. It's particularly useful for machine learning, data analysis, and education. Colab is a hosted Jupyter notebook service that doesn't require any setup and gives you free access to computational resources, including GPUs. More information can be found here <a href = https://research.google.com/colaboratory/faq.html> More info </a>
+Google Research's Colaboratory (abbreviated "Colab") is a product. Colab is a web-based Python editor that allows anyone to write and run arbitrary Python code. It's particularly useful for machine learning, data analysis, and education. Colab is a hosted Jupyter notebook service that doesn't require any setup and gives you free access to computational resources, including GPUs. More information can be found  <a href = https://research.google.com/colaboratory/faq.html>  here </a>
 
 Anyway let's dive right in setting up Google Colab in R 
 
