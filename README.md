@@ -17,6 +17,7 @@ There are two ways to do so:
   <li> Setting up a R runtime enviroment </li>
 </ol>
 
+## Approach 1
 Running R in python runtime enviroment using rpy2 actually helps you to run python and R simultaneously, there are various other runtime enviroments.
 All we need to do is just start the colab and then install the rpy2 package, 
 
